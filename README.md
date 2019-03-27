@@ -1,0 +1,1 @@
+Building my programming skills, practicing using the ternary operator in vanilla javscript !!
